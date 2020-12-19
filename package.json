@@ -1,0 +1,26 @@
+{
+  "name": "react-native-error-manager",
+  "version": "1.2.0",
+  "description": "Will look for errors in react native application and it automatically report it to the developers using react native santry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uday8373/RN-error-handling.git"
+  },
+  "keywords": [
+    "react-native",
+    "error-handle",
+    "sentry-react-native",
+    "sentry"
+  ],
+  "author": "Uday Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uday8373/RN-error-handling/issues"
+  },
+  "homepage": "https://github.com/uday8373/RN-error-handling#readme"
+}
